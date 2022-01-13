@@ -1,3 +1,8 @@
+<b>This repository has been moved to ["Magisk-Modules-Alt-Repo"](https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings).</b>
+<br/>
+<br/>
+<br/>
+
 ## A Magisk module for setting miscellaneous audio configuration values (media audio volume steps (100 steps), disabling the effects framework, raising resampling quality, etc.)
 
 This module changes the number of steps in media volume to 100 steps (0.4~0.7dB per step), disables the effects framework (nearly direct low jitter audio pass), and raises the quality of audio resampling (a mastering quality level) and the bitrate limit of bluetooth codec SBC (dual channel mode) for EDR 2Mbps earphones to improve audio quality effectively in a simple manner.
